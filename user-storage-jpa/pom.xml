@@ -21,7 +21,7 @@
         <groupId>org.keycloak.quickstarts</groupId>
         <artifactId>keycloak-quickstart-parent</artifactId>
         <version>26.0.5.redhat-00003</version>
-        <relativePath>../../pom.xml</relativePath>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>keycloak-user-storage-jpa</artifactId>
